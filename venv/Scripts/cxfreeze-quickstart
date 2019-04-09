@@ -1,5 +1,0 @@
-#!c:\users\joann\pycharmprojects\snake\venv\scripts\python.exe
-from cx_Freeze.setupwriter import main
-
-main()
-
